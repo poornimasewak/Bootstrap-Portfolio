@@ -1,0 +1,96 @@
+.head {
+	background-color: #E20064;
+	width: 200px;
+	margin: 0 0 0 190px;
+	padding: 30px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	text-align: center;
+	color: white;
+	font-weight: bolder;
+	float: left;
+}
+nav {
+	float: right;
+	padding-top: 0;
+	margin-right: 400px;
+	margin-top: 20px;
+	width: 250px;
+}
+section {
+	background-color: gray;
+	width: 550px;
+	padding: 30px;
+	margin-top: 0;
+	margin-left: 100px;
+	float: left;
+	
+}
+
+.mainwidth {
+	margin-top: 50px;
+	padding: 0;
+}
+
+h2 {
+	padding-bottom: 1px;
+	border-bottom: 1px black solid;
+	margin-bottom: 10px;
+	width: 435px;
+}
+header {
+	background-color: gray;
+	height: 77px;
+}
+.my-pic {
+	padding-left: 150px;
+}
+.col2 {
+	width: 200px;
+	padding: 30px;
+	margin-top: 50px;
+	float: left;
+	background-color: gray;
+	margin-left: 100px;
+}
+aside h2{
+	padding-bottom: 1px;
+	border-bottom: 1px black solid;
+	margin-bottom: 10px;
+	width: 140px;
+}
+.row {
+	margin-bottom: 50px;
+}
+.panel-footer
+{
+	padding: 30px;
+	text-align: center;
+}
+.intro {
+	line-height: 25px;
+}
+.form-group {
+	width: 450px;
+}
+.form-control {
+	/*width: 450px;*/
+	padding-right: 200px;
+}
+.work {
+	width: 200px;
+	margin-right: 20px;
+	margin-left: 20px;
+	float: left;
+}
+h3 {
+	position: relative;
+	top: -60px;
+	left: 40px;
+	width: 50px;
+}
+/*animation*/
+img:hover {
+transform: scale(2.5);
+transition: transform .25s ease;
+
+}
